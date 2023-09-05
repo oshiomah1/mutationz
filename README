@@ -1,0 +1,5 @@
+Scripts
+check_var_types.sh – checks what kinds of mutations are in the info column of vcf
+new_run_snpeff.sh – runs snp_eff using default commands
+run_snp_eff.slurm – slurm version of script above but can’t get it to work because of memory issues with Java and augrabies conflict
+
